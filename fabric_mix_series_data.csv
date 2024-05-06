@@ -1,4 +1,4 @@
-Discogs ID,Title,Artists,Genres,Styles,Year,Tracklist,Notes
+Discogs ID,Title,Artists,Genres,Styles,Year,Tracklist,Folder Path,Notes
 268442,Fabric 01,Craig Richards,Electronic,"Dub, Acid, Deep House, Minimal, Tech House",2001,"At That Café (4:38)
 Pirate's Life (4:37)
 The Realist (4:19)
@@ -14,7 +14,7 @@ Altes Testament (6:32)
 Dave (2001 Mix) (5:41)
 Took From Me (4:57)
 Purple Edge (4:50)
-Mispent Years (2:53)",
+Mispent Years (2:53)",edm-timbre-tool/fabric/2001 - Fabric 01 - Craig Richards,
 54453,Fabric 02,Terry Francis,Electronic,"Deep House, Minimal, Tech House",2002,"Welcome (Welcapella) (0:59)
 East (2:54)
 Morph Cross (5:48)
@@ -30,7 +30,7 @@ Night Life (Asad's Silverlining Remix) (5:14)
 Dancin' (3:34)
 Lemon Pie (Dub) (3:20)
 Deeper (BlakDoktor Mix) (7:23)
-My Love (6:46)",
+My Love (6:46)",edm-timbre-tool/fabric/2002 - Fabric 02 - Terry Francis,
 516847,Fabric 03,Jon Marsh,Electronic,House,2002,"Blue Royal (5:24)
 G String Underbeard (5:23)
 Change For Me (Akabu Dub) (6:06)
@@ -43,7 +43,7 @@ Only You (4:56)
 Calling All Dancers (5:56)
 Pink Yo Black (Live In SW15 Mix) (5:10)
 Time To Yourself (2:32)
-Jest 4 Me (BHQ Vocal Dub 2) (6:21)",
+Jest 4 Me (BHQ Vocal Dub 2) (6:21)",edm-timbre-tool/fabric/2002 - Fabric 03 - Jon Marsh,
 99245,Fabric 04,Tony Humphries,Electronic,"House, Garage House",2002,"Lovebirds ()
 Tafina ()
 Canopy ()
@@ -57,7 +57,7 @@ How Does It Feel ? (U.C. Vocal Mix) ()
 Believe ()
 Sunshine Yellow ()
 Kingsburg ()
-Brisa (Atjazz Remix) ()",
+Brisa (Atjazz Remix) ()",edm-timbre-tool/fabric/2002 - Fabric 04 - Tony Humphries,
 1105642,Fabric 05,Pure Science,Electronic,Tech House,2002,"Time 2 Bump! (8:09)
 United By House (5:20)
 Can You Feel? (5:48)
@@ -70,7 +70,7 @@ Meez Philosophy (Feel It) (6:17)
 It Is Innit? (5:22)
 By The Pool ;) (5:40)
 La Magica Del Sol (5:21)
-Our Universe (Galaxy 1172 Outro) (3:39)",
+Our Universe (Galaxy 1172 Outro) (3:39)",edm-timbre-tool/fabric/2002 - Fabric 05 - Pure Science,
 133589,Fabric 06,Tyler Stadius,Electronic,"House, Deep House, Tech House",2002,"Legend Of The High Plains Drifter ()
 Acid Soul ()
 Look Behind Your Eyes ()
@@ -82,7 +82,7 @@ Allnight ()
 Loud Kissin' (Asad Rizvi's Silverlining Smooch Mix) ()
 Letting Go ()
 Punch Up ()
-King In My Empire ()",
+King In My Empire ()",edm-timbre-tool/fabric/2002 - Fabric 06 - Tyler Stadius,
 389261,Fabric 07,Halo & Hipp-E,Electronic,"House, Tech House",2002,"Slow Swing ()
 3 In Tha Mornin' (Swag's Version Dub) ()
 Metroride (Ken & Sam's Racketride) ()
@@ -96,7 +96,7 @@ Midnight (Original Mix) ()
 Long Deep Decay ()
 When I Fell In Love (Charles Webster Dub Mix) ()
 Lakeshore Dr. ()
-Body Flowers (Fluid System Mix) ()",
+Body Flowers (Fluid System Mix) ()",edm-timbre-tool/fabric/2002 - Fabric 07 - Hipp-e & Halo,
 212216,Fabric 08,Radioactive Man,Electronic,"Breaks, Electro",2003,"Intro - The Funk: Discuss Further (1:17)
 Visions (2 Lone Swordsmen Remix) (6:17)
 Touch Me (Dub) (4:14)
@@ -112,7 +112,7 @@ Explode (4:43)
 Going Down (5:10)
 Wake Up (Bolz Bol Electro World Remix) (5:34)
 Rottenrow (3:38)
-F**k Me On The Dance Floor (Accapella) (2:26)",
+F**k Me On The Dance Floor (Accapella) (2:26)",edm-timbre-tool/fabric/2003 - Fabric 08 - Radioactive Man,
 59967,Fabric 09,Slam,Electronic,"House, Techno, Tech House",2003,"Cannibals (3:59)
 Style Dish (2:17)
 Working Night (4:12)
@@ -131,7 +131,7 @@ Steel (Marco Carola Remix) (4:44)
 Riddles (Tom Hades Remix) (3:22)
 Can't Stop (0:32)
 Sonic Tools (3:06)
-Inspiration (6:39)",
+Inspiration (6:39)",edm-timbre-tool/fabric/2003 - Fabric 09 - Slam,
 440256,Fabric 10,Doc Martin,Electronic,"Progressive House, House",2003,"Musical Prayer (1:56)
 Boots And Pants (6:14)
 On The Bridge (Larry Heard's After Dark Club Mix) (7:55)
@@ -146,7 +146,7 @@ Just Us (4:36)
 Highlights (4:05)
 Bonus Beats (3:19)
 If You Need Me (Blakkat's Street Party Mix) (6:39)
-Son Of Stitt (3:48)",
+Son Of Stitt (3:48)",edm-timbre-tool/fabric/2003 - Fabric 10 - Doc Martin,
 297231,Fabric 11,Swayzak,Electronic,"House, Dub, Electro, Minimal, Electroclash, Sound Collage, Speech",2003,"Michael Jackson (2:09)
 Freedom Engine (3:44)
 White Cigarettes (4:50)
@@ -162,7 +162,7 @@ Flat 55 (2:37)
 Donna (5:03)
 Orange Alert (DFA Remix) (5:28)
 One Of Our Submarines (Salz Mix) (6:17)
-Bars 1,2,3,4 (4:32)",
+Bars 1,2,3,4 (4:32)",edm-timbre-tool/fabric/2003 - Fabric 11 - Swayzak,
 113534,Fabric 12,The Amalgamation Of Soundz,Electronic,"Leftfield, Deep House, Downtempo",2003,"Helicopter (2:46)
 Hank's Transition (2:08)
 Heart Noir (3:03)
@@ -180,7 +180,7 @@ Are You Sure About That (5:01)
 Systemizing (3:43)
 Groove Control (4:41)
 Summer Night (5:53)
-Bey Un Bey (MKL Vs SoySos Remix) (6:14)",
+Bey Un Bey (MKL Vs SoySos Remix) (6:14)",edm-timbre-tool/fabric/2003 - Fabric 12 - The Amalgamation of Soundz,
 60590,Fabric 13,Michael Mayer,Electronic,"House, Tech House",2003,"I Think About You (Geiger Mix) (5:01)
 Bring Me Closer (6:22)
 Oldschool, Baby (Piano Mix) (5:05)
@@ -193,7 +193,7 @@ Mushroom (5:12)
 Run Into Flowers (Jackson Remix) (5:03)
 Really Real (5:19)
 Love Me (5:39)
-I Think About You (Original Mix) (4:45)",
+I Think About You (Original Mix) (4:45)",edm-timbre-tool/fabric/2003 - Fabric 13 - Michael Mayer,
 31506,Fabric 14,Stacey Pullen,Electronic,"House, Techno, Tech House",2004,"Spacey Bongo (6:10)
 I Got It (4:50)
 The DJ's Calling (4:24)
@@ -207,7 +207,7 @@ Music People (6:29)
 Hold On (4:54)
 The Drum (4:51)
 Catch 2 (5:19)
-Flookin' (6:08)",
+Flookin' (6:08)",edm-timbre-tool/fabric/2004 - Fabric 14 - Stacey Pullen,
 345177,Fabric 15: Tyrant,Craig Richards,Electronic,"Dub, Electro, Minimal, Tech House",2004,"Six Of One (Part One) ()
 Other Planets ()
 Vibes ()
@@ -244,7 +244,7 @@ Smoking That Edge ()
 Chromozoid Fly ()
 Knifflige Fragen ()
 Silence Is Defeat ()
-Whip ()",
+Whip ()",edm-timbre-tool/fabric/2004 - Fabric 15 - Craig Richards Tyrant,
 150385,Fabric 16,Eddie Richards,Electronic,"House, Tech House",2004,"Loosely Joined (4:01)
 Be Still (4:25)
 Vegas Nights (Audio Soul Project Rerub) (5:21)
@@ -258,7 +258,7 @@ Plural (5:16)
 Fathernature (6:09)
 Steppin' Out (Tunnel Mix) (6:10)
 Do U Know House? (4:07)
-Butterfly Lips  (2:45)",
+Butterfly Lips  (2:45)",edm-timbre-tool/fabric/2004 - Fabric 16 - Eddie Richards,
 533929,Fabric 17,Akufen,Electronic,"Leftfield, Techno, IDM, Minimal, Cha-Cha, Latin",2004,"LFO Drive (4:14)
 Dog Days (Pantytec Remix) (2:14)
 Karashik (1:27)
@@ -279,7 +279,7 @@ Yaki Soba (2:59)
 Funky Sterling (5:26)
 Siamese Twins (Mike Shannon's Incision Mix) (4:24)
 In My Life (2:36)
-My Old Lady (4:51)",
+My Old Lady (4:51)",edm-timbre-tool/fabric/2004 - Fabric 17 - Akufen,
 1661167,Fabric 18,"Baby Mammoth, Beige, The Solid Doctor",Electronic,"Trip Hop, Future Jazz, Downtempo",2004,"Elephunk (7:08)
 Blind Date (5:39)
 Finale (Nickodemus & Osiris Remix) (5:53)
@@ -292,7 +292,7 @@ Did You Piss On My Guitar (4:52)
 Bullshit (4:55)
 Stick It In T'Middle (4:57)
 Spansules (7:23)
-Pigeon's G-Spot (3:13)",
+Pigeon's G-Spot (3:13)","edm-timbre-tool/fabric/2004 - Fabric 18 - Baby Mammoth, Beige & Solid Doctor",
 536895,Fabric 19,Andrew Weatherall,Electronic,"House, Electro, Tech House, Acid",2004,"I Need A Freak (5:21)
 Freak-A-Holic (3:01)
 M/S Langåra (Syntax Erik Mix) (5:15)
@@ -308,7 +308,7 @@ Brother Mole (John Tejada Mix) (4:54)
 Timing, Forget The Timing (Kerrier District Mix) (4:30)
 Bloody Hell (4:18)
 Dexter (2 Lone Swordsmen Mix) (5:29)
-Atmosphere (4:23)",
+Atmosphere (4:23)",edm-timbre-tool/fabric/2004 - Fabric 19 - Andrew Weatherall,
 60599,Fabric 20,John Digweed,Electronic,"House, Progressive House",2005,"Strive To Live (16B Mix) (6:53)
 Traber (2:55)
 Forgive & Forget (Richard Davis Remix) (4:35)
@@ -322,7 +322,7 @@ Knob Job (3:34)
 Better World (Wink Interpretation) (6:45)
 Happiness (Michael Mayer Mix) (6:34)
 Emico (5:14)
-Vertigo (Goldtrix Remix) (6:47)",
+Vertigo (Goldtrix Remix) (6:47)",edm-timbre-tool/fabric/2005 - Fabric 20 - John Digweed,
 138835,Fabric 21,DJ Heather,Electronic,House,2005,"Good People ()
 I Got Your Love ()
 Ze Theme ()
@@ -340,7 +340,7 @@ Feel Alright (Dub Mix) ()
 Acid Jack (Original Mix) ()
 Brazilian Soul (The Jazzy Joint Mix) ()
 Memories ()
-Cat's Eyes ()",
+Cat's Eyes ()",edm-timbre-tool/fabric/2005 - Fabric 21 - DJ Heather,
 60537,Fabric 22,Adam Beyer,Electronic,"Minimal, Minimal Techno, Techno",2005,"This World (Wighnomy Brothers & Robag Wruhme Remix) (3:29)
 A Walk In The Park (Wink's Run Through The Park Interpretation) (3:12)
 Las Bicicletas Son Para El Verano (1:12)
@@ -360,7 +360,7 @@ Spice (2:27)
 Completed (2:51)
 Motions Of Energy (4:32)
 Redemption (4:47)
-She's The One (Circles In Time Remix) (8:30)",
+She's The One (Circles In Time Remix) (8:30)",edm-timbre-tool/fabric/2005 - Fabric 22 - Adam Beyer,
 34959,Fabric 23,Ivan Smagghe,Electronic,"Techno, Electro",2005,"Ride (Der Schmeisser Lovelysplinterremix) (6:16)
 Your Place Or Mine (4:52)
 Frau (Pandullo Vs Und Mix) (3:17)
@@ -375,7 +375,7 @@ Jefferson & Braeside (5:25)
 Tear Up (6:14)
 Just F***ing (Roman Flügel's ""23 Positions In A One-Night Stand"" Mix) (5:48)
 Carnage, OK! (6:01)
-Budapest (Joakim Italo Dub) (5:04)",
+Budapest (Joakim Italo Dub) (5:04)",edm-timbre-tool/fabric/2005 - Fabric 23 - Ivan Smagghe,
 37320,Fabric 24,Rob Da Bank,"Electronic, Rock","Acid House, Indie Rock, House, Broken Beat, Techno, Synth-pop, Minimal",2005,"Balkan Hot Step (5:52)
 Preacher Man (2:02)
 Wanna Get Wet (4:30)
@@ -394,7 +394,7 @@ Poney Part 1 (3:53)
 Can You Feel It (4:18)
 (silence) (0:04)
 One More... ()
-Your Love (6:45)",
+Your Love (6:45)",edm-timbre-tool/fabric/2005 - Fabric 24 - Rob da Bank,
 9319,Fabric 25,Carl Craig,Electronic,"House, Techno, Tribal House",2005,"Wait (The Whisper Song) (2:29)
 Angel (Caya Dub) (3:50)
 Sweat (4:34)
@@ -412,7 +412,7 @@ Limit (4:40)
 Energize (4:46)
 Crushing (2:12)
 Darkness (Max Mix) (4:34)
-Blade Dancer (Dixon Edit) (3:45)",
+Blade Dancer (Dixon Edit) (3:45)",edm-timbre-tool/fabric/2005 - Fabric 25 - Carl Craig,
 16364,Fabric 26,Global Communication,"Electronic, Hip Hop","House, Broken Beat, Downtempo, Hip Hop",2006,"Intro (0:22)
 No Child Of God (Instrumental) (3:22)
 Starz (2:34)
@@ -434,7 +434,7 @@ Living Inside (2:16)
 Robots³ (2:16)
 Sweet Music (3:20)
 Otaku (4:51)
-Margherita (5:51)",
+Margherita (5:51)",edm-timbre-tool/fabric/2006 - Fabric 26 - Global Communication,
 71792,Fabric 27,"Matthew Dear, Audion",Electronic,"Techno, Minimal",2006,"Off First (3:49)
 Mosquito Morpher ()
 Ketamine Christmas (2:48)
@@ -459,7 +459,7 @@ Rej (3:00)
 Blackclap (3:25)
 Chromosul (5:20)
 Ciboulette (Luciano Remix) (7:15)
-Off Third ()",
+Off Third ()",edm-timbre-tool/fabric/2006 - Fabric 27 - Matthew Dear as Audion,
 60470,Fabric 28,Wiggle (3),Electronic,"House, Tech House",2006,"Brovas Darkness ()
 Some Bizarre ()
 Martian Keg Party ()
@@ -477,7 +477,7 @@ Punch Up (Wozsonik Vokz Mix) ()
 Change ()
 The Cure & The Cause (Dennis Ferrer Remix) ()
 Her Boyfriend Was The DJ (Bushy Remix) ()
-Dream 17 (Nathan Coles & Dave Coker Love Your Feel Mix) ()",
+Dream 17 (Nathan Coles & Dave Coker Love Your Feel Mix) ()",edm-timbre-tool/fabric/2006 - Fabric 28 - Wiggle,
 36319,Fabric 29,Tiefschwarz,Electronic,"House, Electro, Minimal",2006,"Grace (Anxiety) (5:59)
 Who's Afraid Of Detroit? (5:43)
 Damage (M.A.N.D.Y. Remix) (6:22)
@@ -491,7 +491,7 @@ Amazon (4:17)
 Freefall (4:25)
 John The Revelator (Tiefschwarz Dub) (6:48)
 The Hammer Of Thor (5:52)
-Beetles And Spider (Roman Flügel Remix) (3:40)",
+Beetles And Spider (Roman Flügel Remix) (3:40)",edm-timbre-tool/fabric/2006 - Fabric 29 - Tiefschwarz,
 112306,Fabric 30,Rub N Tug,Electronic,"House, Disco, Techno, Deep House, Electro, Minimal",2006,"Intro (0:15)
 7 Deadly Strokes (3:45)
 What Else Is There? (The Emperor Machine Vocal Version) (2:08)
@@ -508,7 +508,7 @@ L'Asteroide (Original Impact Mix) (3:40)
 Blackmoon (2:50)
 Discopolis (8:27)
 Engoli (4:01)
-Catch A Moment In Time (Ewan Pearson's Memory Blissed Remix) (5:15)",
+Catch A Moment In Time (Ewan Pearson's Memory Blissed Remix) (5:15)",edm-timbre-tool/fabric/2006 - Fabric 30 - Rub N Tug,
 26889,Fabric 31,Marco Carola,Electronic,"Techno, Minimal, Tech House",2006,"Io ()
 Waj Rebbag (Alfa Romero Mix) ()
 Sure Shot ()
@@ -526,7 +526,7 @@ Pecan ()
 Change ()
 Newbe (Heartthrob’s Are U Gay Remix) ()
 Escarabajos ()
-Plunder ()",
+Plunder ()",edm-timbre-tool/fabric/2006 - Fabric 31 - Marco Carola,
 310565,Fabric 32,Luke Slater,Electronic,"Techno, Minimal, House, Disco, Electro, Breaks",2007,"Rhythm Division (3:08)
 For The Asking (2:59)
 Transposition Reverse (2:32)
@@ -548,7 +548,7 @@ Doctor Gato (Plus 4 Reasons) (2:29)
 The Message (2:23)
 Full Clip (2:14)
 Phylyps Trak II/II (5:10)
-GT (3:55)",
+GT (3:55)",edm-timbre-tool/fabric/2007 - Fabric 32 - Luke Slater,
 79844,Fabric 33,Ralph Lawson,Electronic,"House, Tech House, Acid House",2007,"Don't Be Lonely (An2 Remix) (4:44)
 High (Llorca Remix) (4:02)
 Polyfunny (2:19)
@@ -565,7 +565,7 @@ Drum Trax (Beats) (4:21)
 15 Minutes (The Rapture HushHush Remix) (4:25)
 Hot Gloves (Bakazou Mix) (4:53)
 Advance (5:06)
-Digitize (Emperor Machine Remix) (4:25)",
+Digitize (Emperor Machine Remix) (4:25)",edm-timbre-tool/fabric/2007 - Fabric 33 - Ralph Lawson,
 31921,Fabric 34,Ellen Allien,Electronic,"Techno, Acid House, Minimal",2007,"S1 (Don’t Believe The Chord-Pop Hype) (5:13)
 The Sun Can’t Compare (Long Version) (5:27)
 Driven (Original) (6:07)
@@ -580,7 +580,7 @@ Harrowdown Hill (Extended Mx) (7:01)
 Just A Woman (3:10)
 Journey (4:32)
 Baby Kate (Plastikman Remix) (3:24)
-Arcadia (4:00)",
+Arcadia (4:00)",edm-timbre-tool/fabric/2007 - Fabric 34 - Ellen Allien,
 113975,Fabric 35,Ewan Pearson,Electronic,"House, Tech House, Minimal",2007,"Ali McBills (Robert Johnson 6am X-Ray Italo Rework) (7:22)
 Nimrod (Marc Houle Is A Nimrod Remix) (3:08)
 Push In The Bush (2:46)
@@ -596,7 +596,7 @@ Can You Relate (3:58)
 All For One (Tobi Neumann's Swinging Remix) (4:52)
 Panopeeps (Origin) (5:15)
 ""Tides"" - C's Movement #1 (Carl Craig Remix) (8:49)
-Berghain ()",
+Berghain ()",edm-timbre-tool/fabric/2007 - Fabric 35 - Ewan Pearson,
 60496,Fabric 36,Ricardo Villalobos,Electronic,"House, Minimal",2007,"Groove 1880 (1:30)
 Perc And Drums (3:22)
 Moongomery (6:07)
@@ -611,7 +611,7 @@ Prevorent (2:00)
 Fumiyandric 2 (2:30)
 Won't You Tell Me (6:15)
 Primer Encuentro Latino-Americano (9:45)
-Chropuspel Zündung (6:15)",
+Chropuspel Zündung (6:15)",edm-timbre-tool/fabric/2007 - Fabric 36 - Ricardo Villalobos,
 60517,Fabric 37,Steve Bug,Electronic,"House, Techno, Minimal",2007,"Anywhere You Are (4:13)
 Consequence (1:32)
 Voodoo (It's In The Wall) (2:56)
@@ -633,7 +633,7 @@ Worked It Out (Charles Webster's First Remix) (5:34)
 Faith N.Y. (2:33)
 Monument (2:02)
 Lost (4:36)
-Red Doggy (5:06)",
+Red Doggy (5:06)",edm-timbre-tool/fabric/2007 - Fabric 37 - Steve Bug,
 93394,Fabric 38,M.A.N.D.Y.,Electronic,"Techno, Tech House, Minimal, Synth-pop",2008,"Intro: (0:31)
 Bananas To The Beat (1:28)
 Darkslide (2:59)
@@ -658,7 +658,7 @@ Kisses (Kabuto & Koji Carnea Remix) (1:42)
 Tunnels (Sebo K & Metro Remix) (3:43)
 2 Fast 4 U (Julian Ganzer Remix) (2:41)
 Bhalobashi (Sideshow Dub Mix) (1:50)
-Don't Stop (0:37)",
+Don't Stop (0:37)",edm-timbre-tool/fabric/2008 - Fabric 38 - M.A.N.D.Y,
 18461,Fabric 39,Robert Hood,Electronic,"Tribal, Techno, Minimal, Tech House",2008,"Silicone Fingers (1:14)
 Element 9 (2:19)
 Who Taught You Math (1:37)
@@ -690,7 +690,7 @@ Magic (2:50)
 The Greatest Dancer (3:41)
 Exclamation (2:32)
 And Then We Planned Our Escape (3:41)
-Element 12 (1:07)",
+Element 12 (1:07)",edm-timbre-tool/fabric/2008 - Fabric 39 - Robert Hood,
 50611,Fabric 40,Mark Farina,Electronic,"House, Tech House",2008,"Together (3:44)
 Yellow Truth (Atnarko Mix) (3:32)
 Why Not Rock? (4:06)
@@ -711,7 +711,7 @@ Make Dat Shit (Derrick Carter Mix) (3:02)
 Mumbler (3:02)
 Brutality (3:17)
 Das Shibuya (Cheeba Mix) (3:47)
-Hoose Musik (3:13)",No master release;
+Hoose Musik (3:13)",edm-timbre-tool/fabric/2008 - Fabric 40 - Mark Farina,No master release;
 1386494,Fabric 41,Luciano,Electronic,"House, Techno, Deep House, Tech House, Minimal",2008,"Slagare ()
 El Baile (Acapella) ()
 Yo Momo ()
@@ -727,7 +727,7 @@ Rise From Your Grave (Tiefschwarz Remix) ()
 Albertino ()
 Just So You Know ()
 You Are... (Original Mix) ()
-Arabesque ()",
+Arabesque ()",edm-timbre-tool/fabric/2008 - Fabric 41 - Luciano,
 37331,Fabric 42,Ame,Electronic,"House, Techno, Minimal",2008,"Hear The Sun (3:18)
 Untitled B1 (3:37)
 That's A Nice Way To Give Me Feedback (Wighnomy Brothers Quintenzirkel Remikks) (6:03)
@@ -744,7 +744,7 @@ We Said Nothing (5:33)
 The Symphony (7:58)
 M.A.M. (Marcel Dettmann Remix) (6:58)
 Australiapella 2 ()
-Loop (Fuse Mix) (7:59)",
+Loop (Fuse Mix) (7:59)",edm-timbre-tool/fabric/2008 - Fabric 42 - Âme,
 263491,Fabric 43,Metro Area,Electronic,"Italo-Disco, Disco, Electro, Synth-pop, House",2008,"Ghar Aya Mera Pardesi (Intro) (1:57)
 Share The Night (Breakdown Mix) (3:14)
 Work For Love (Dub Mix) (3:05)
@@ -767,7 +767,7 @@ Can't Stop (Acid Rainforest Mix) (2:45)
 Feelings 2 (0:59)
 Open Mind (Special Dance Mix) (3:12)
 Poupée Flash (3:00)
-Freedom Of Choice (3:23)",
+Freedom Of Choice (3:23)",edm-timbre-tool/fabric/2008 - Fabric 43 - Metro Area,
 122926,Fabric 44,John Tejada,Electronic,"Breakbeat, Techno, Minimal",2009,"Let's Do It (5:15)
 Kamm (4:42)
 Subharmonic Atoms (2:33)
@@ -787,7 +787,7 @@ Forbidden Planet (4:58)
 Relish (Shed Remix) (3:49)
 Candy (5:20)
 The Open (4:11)
-Huba (Plaid's 15 Years Lost Remix) (2:54)",
+Huba (Plaid's 15 Years Lost Remix) (2:54)",edm-timbre-tool/fabric/2009 - Fabric 44 - John Tejada,
 106747,Fabric 45,Omar-S,Electronic,"House, Techno",2009,"Polycopter (Unreleased) (1:27)
 Flying Gorgars (Unreleased) (3:29)
 Strider's World (4:31)
@@ -803,7 +803,7 @@ A Victim (3:17)
 Oasis One (6:12)
 Blade Runner (6:44)
 Day (Unreleased Long Mix) (6:46)
-Set It Out (3:51)",
+Set It Out (3:51)",edm-timbre-tool/fabric/2009 - Fabric 45 - Omar S Detroit,
 73010,Fabric 46,Claude VonStroke,Electronic,"House, Techno, Deep House, Tech House, Electro, Minimal",2009,"Cry Baby ()
 The Healer ()
 The Greasy Beat (Tech-Funk Mix) ()
@@ -831,7 +831,7 @@ Running ()
 SF ()
 Kraft ()
 One Weekend ()
-Aundy ()",
+Aundy ()",edm-timbre-tool/fabric/2009 - Fabric 46 - Claude VonStroke,
 257581,Fabric 47,Jay Haze,Electronic,"Techno, Tech House, Minimal",2009,"Intro ()
 Awakening ()
 An Hour To Fly ()
@@ -852,7 +852,7 @@ Conduction ()
 Pimpin' Ain't Easy ()
 Ancient Blessing ()
 Burning ()
-Something To Say ()",
+Something To Say ()",edm-timbre-tool/fabric/2009 - Fabric 47 - Jay Haze,
 232803,Fabric 48,Radio Slave,Electronic,"House, Deep House, Minimal, Tech House",2009,"Right At It (Michel Cleis Deeper Remix) (5:35)
 DDB (4:50)
 I Don’t Need A Cure For This (6:21)
@@ -865,7 +865,7 @@ Koma Koma (Steve Lawler Remix) (7:18)
 My Heart (Daniel Sanchez Easy Noise Remix) (6:42)
 La Mezcla (7:43)
 Wan Poku Moro (5:07)
-Maximum Overload (Roy's Death Wish Mix) (4:37)",
+Maximum Overload (Roy's Death Wish Mix) (4:37)",edm-timbre-tool/fabric/2009 - Fabric 48 - Radio Slave,
 204922,Fabric 49,Magda,"Electronic, Stage & Screen","Techno, Electro, Minimal, Synth-pop, Disco, Soundtrack",2009,"Al Margini Della Follia (4:14)
 Falls (Hercules & Love Affair Remix) ()
 Voices ()
@@ -898,7 +898,7 @@ Blue ()
 We Were... (3:44)
 The Coming (Idjut Boys Version 2) ()
 Beat Squared (4:44)
-Tierbeobachtungen (Live Played By Anne Westphalen & Peter Lay) ()",
+Tierbeobachtungen (Live Played By Anne Westphalen & Peter Lay) ()",edm-timbre-tool/fabric/2009 - Fabric 49 - Magda,
 365208,Fabric 50,Martyn,"Electronic, Hip Hop","Dubstep, UK Garage, Techno, Deep House, Hip Hop",2010,"Joy Fantastic (4:02)
 Drummin (Louis Bendetti Drumminpella) (1:45)
 Bossa Boogie (3:13)
@@ -924,7 +924,7 @@ Mercury's Rainbow (2:28)
 Flashback (3:03)
 Vancouver (2:50)
 Rat Alert (2:09)
-Trilingual Dance Sexperience (3:21)",
+Trilingual Dance Sexperience (3:21)",edm-timbre-tool/fabric/2010 - Fabric 50 - Martyn,
 514620,Fabric 51,DJ T.,Electronic,"House, Deep House, Tech House, Minimal",2010,"Windshield Wiper Law (2:14)
 I Just Wanna Be Your Disco Bitch (3:20)
 Drown Dogs (2:53)
@@ -944,7 +944,7 @@ Township Funk (Crazy P Mix) (4:43)
 Milk & Honey (Basket Mix) (4:10)
 Immune (4:25)
 Broken Mirror (4:57)
-Keep Me In My Plane (DJ Koze Hudson River Dub) (4:58)",
+Keep Me In My Plane (DJ Koze Hudson River Dub) (4:58)",edm-timbre-tool/fabric/2010 - Fabric 51 - DJ T,
 870974,Fabric 52,Optimo,"Electronic, Latin","House, Deep House, Tech House, New Wave, Acid House, Cumbia, Hi NRG, Synth-pop",2010,"Lady Shave (4:29)
 Cosmorama (Prins Thomas Discomiks) (2:59)
 Q1.1 (3:49)
@@ -966,7 +966,7 @@ Don't Call (3:42)
 Inflation (3:10)
 Walter Neff (3:16)
 Heartbit (3:13)
-Heartbeat (4:17)",
+Heartbeat (4:17)",edm-timbre-tool/fabric/2010 - Fabric 52 - Optimo (Espacio),
 270468,Fabric 53,Surgeon,"Electronic, Non-Music","Techno, Dubstep, Field Recording",2010,"Location Recording From Kuramae Subway Station, Tokyo, Japan (0:42)
 Glance (0:25)
 Bad Hands (Drums Only) (1:26)
@@ -996,7 +996,7 @@ Threshold (Substance Mix) (3:49)
 Blip (0:57)
 No Time Soon (2:38)
 El Juan (3:49)
-What (4:55)",
+What (4:55)",edm-timbre-tool/fabric/2010 - Fabric 53 - Surgeon,
 282277,Fabric 54,Damian Lazarus,Electronic,"House, Techno, Tech House",2010,"Metro Bunker (1:25)
 Love Cry (4:20)
 Void 23 (3:24)
@@ -1017,7 +1017,7 @@ Yoyo (4:09)
 Run (Ostern Jam) (2:53)
 Magic Dance (4:12)
 Program Ten (Part Five) (2:03)
-Program Ten (Part Six) (2:15)",
+Program Ten (Part Six) (2:15)",edm-timbre-tool/fabric/2010 - Fabric 54 - Damian Lazarus,
 293583,Fabric 55,Shackleton,Electronic,"Tribal House, Abstract, Techno, Dubstep",2010,"Come Up (4:45)
 Moon Over Joseph's Burial (0:57)
 Hypno Angel (2:51)
@@ -1039,7 +1039,7 @@ Bottles (5:57)
 New Dawn (4:02)
 Something Has Got To Give (0:55)
 Massacre (5:02)
-Stripped (3:29)",
+Stripped (3:29)",edm-timbre-tool/fabric/2010 - Fabric 55 - Shackleton,
 310486,Fabric 56,Derrick Carter,Electronic,House,2011,"Jack Your Big Booty (Derrick's BHQ Acid Vocal / BHQ Bonus Of Beats) (3:03)
 La La Land (Derrick Carter 'D's BHQ Business' Remix) ()
 Church Lady (Tommy Davis & DJ Spen Bom Bom Bom Tool) ()
@@ -1062,7 +1062,7 @@ Moskowitz Remix (D's BHQ Re-Edit) (5:06)
 Also Featured Throughout The Mix ()
 La La Land (Derrick Carter 'D's BHQ Business' Remix) ()
 Church Lady (Tommy Davis & DJ Spen Bom Bom Bom Tool) ()
-Got A Soul ()",
+Got A Soul ()",edm-timbre-tool/fabric/2011 - Fabric 56 - Derrick Carter,
 2979940,Fabric 57,Agoria,"Electronic, Jazz, Funk / Soul","House, Techno, Free Jazz, Acid House, Deep House, Big Band, Soul",2011,"Ranges - Theme (3:53)
 Real Things ()
 Ein Lied Für Popol Vuh ()
@@ -1090,7 +1090,7 @@ Blackmagic (Izmabad 118 Remix) (3:12)
 Dominas (Carl Craig Mix) (4:11)
 Dominas (Ruff Mix) ()
 fabric 57 Puppets (3:58)
-Night And Day (2:25)",
+Night And Day (2:25)",edm-timbre-tool/fabric/2011 - Fabric 57 - Agoria,
 943301,Fabric 58 (The Nothing Special),Craig Richards,Electronic,"House, Tech House, Techno",2011,"Rico’s Helly (4:04)
 Reprise (3:23)
 Come Closer (Dub) (3:38)
@@ -1110,7 +1110,7 @@ Kalimba (5:14)
 Premiata (4:00)
 Space (4:13)
 Lotos Eaters (Neville Watson Remix) (4:58)
-Los Gatos Lloros (4:09)",No master release;
+Los Gatos Lloros (4:09)",edm-timbre-tool/fabric/2011 - Fabric 58 - Craig Richards,No master release;
 3045420,Fabric 59,Jamie Jones,Electronic,"House, Synth-pop, Disco",2011,"Time Intro (0:28)
 La Ritournelle (Metronomy Mix) (2:04)
 Don’t Appear (Redux) (3:16)
@@ -1127,7 +1127,7 @@ Goblin City (Holy Ghost Mix) (7:53)
 The Devil’s Dancers (3:13)
 The Lows (2:39)
 Get Up Disco (6:53)
-Fear Of Numbers (5:12)",
+Fear Of Numbers (5:12)",edm-timbre-tool/fabric/2011 - Fabric 59 - Jamie Jones,
 448838,Fabric 60,Dave Clarke,Electronic,"Techno, Electro, Acid",2011,"Shiver (1:45)
 Cnemidophorus Sexlineatus (The Mr. Pauli Monster Bass Guitar Remix) (4:09)
 Armed 3 (4:22)
@@ -1144,7 +1144,7 @@ Destination Planet Earth (4:03)
 Foreign Object (3:35)
 Coolicon (2:40)
 Alternate Sequence (5:50)
-The Attic (5:30)",
+The Attic (5:30)",edm-timbre-tool/fabric/2011 - Fabric 60 - Dave Clarke,
 465632,Fabric 61,Visionquest,Electronic,"Acid House, Techno, Deep House, Tech House, Minimal",2011,"Wasteland (3:18)
 Portside Waves (4:48)
 Hal 2010 (2:36)
@@ -1162,7 +1162,7 @@ Abduction (1:57)
 Can't Buy Love (5:25)
 Tale/Foot Break (2:56)
 Heaven Felt Like Night (6:29)
-Song With No Ending (1:59)",
+Song With No Ending (1:59)",edm-timbre-tool/fabric/2011 - Fabric 61 - Visionquest,
 1305912,Fabric 62,DJ Sneak,Electronic,"House, Techno, Tech House",2011,"Calcium ()
 Got To Make It ()
 Walking In My Blues ()
@@ -1180,7 +1180,7 @@ Funk My Sax ()
 Wait A Minute ()
 Take A Trip ()
 To The Music (Tato Remix) ()
-Beware Of The Swingers ()",
+Beware Of The Swingers ()",edm-timbre-tool/fabric/2012 - Fabric 62 - DJ Sneak,
 457173,Fabric 63,Levon Vincent,Electronic,"House, Techno, Deep House",2012,"Earth Calls ()
 Blaze (Do Dah Dab Mix) ()
 Intrinsic Motivation ()
@@ -1195,7 +1195,7 @@ The End ()
 Blacklight ()
 Early Reflections ()
 Rainstorm II ()
-Far Away (Atmospheric Pass) ()",
+Far Away (Atmospheric Pass) ()",edm-timbre-tool/fabric/2012 - Fabric 63 - Levon Vincent,
 465641,Fabric 64,Guy Gerber,Electronic,"Tech House, Progressive House, Deep House",2012,"Store-House Consciousness (4:43)
 The Golden Sun And The Silver Moon (5:30)
 Shady Triangle (3:40)
@@ -1211,7 +1211,7 @@ The Money Shot (0:55)
 Moon Blur (7:16)
 My Medicine (5:30)
 Human Raft (1:24)
-Just Wanna See You Happy (3:40)",
+Just Wanna See You Happy (3:40)",edm-timbre-tool/fabric/2012 - Fabric 64 - Guy Gerber,
 465633,Fabric 65,Matthias Tanzmann,Electronic,"House, Tech House",2012,"Venus ()
 One Trick Pony ()
 Sources From The Past ()
@@ -1224,8 +1224,8 @@ Right On, Right On (Matthias Tanzmann Remix) ()
 In The Toilette (Philip Bader Remix) ()
 Everything ()
 MFD 1.3 ()
-Rain Come Down ()",
-595671,Fabric 66,Ben Klock,Electronic,"House, Tech House, Techno, Dub Techno",2012,Fabric 66: Ben Klock (Continuous Mix) (1:13:23),No master release;
+Rain Come Down ()",edm-timbre-tool/fabric/2012 - Fabric 65 - Matthias Tanzmann,
+595671,Fabric 66,Ben Klock,Electronic,"House, Tech House, Techno, Dub Techno",2012,Fabric 66: Ben Klock (Continuous Mix) (1:13:23),edm-timbre-tool/fabric/2012 - Fabric 66 - Ben Klock,No master release;
 4073376,Fabric 67,Zip,Electronic,"Deep House, Techno, Minimal, House",2012,"Dreams ()
 Pam Pam ()
 Till The Feelings Gone ()
@@ -1242,7 +1242,7 @@ Expansions (Pyramid Bonus Beats) ()
 Return Of The Speaker People (Kausto's Sudden Aphasia Mix) ()
 Drone ()
 Blackholes (The Sun Of God Remix) ()
-Music ()",No master release;
+Music ()",edm-timbre-tool/fabric/2012 - Fabric 67 - Zip,No master release;
 4289299,Fabric 68,Petre Inspirescu,Electronic,"Modern Classical, Tech House",2013,"Lumiere (3:08)
 Chestii Socoteli (4:21)
 In Miriste (5:22)
@@ -1257,7 +1257,7 @@ Vastu' Da Gama (5:35)
 Dansul Libelulei (4:37)
 Je T'aime Lori (5:33)
 Murgul (7:16)
-Piano Preludes (4:06)",No master release;
+Piano Preludes (4:06)",edm-timbre-tool/fabric/2013 - Fabric 68 - Petre Inspirescu,No master release;
 4470675,Fabric 69,Sandwell District,Electronic,"Minimal, Techno",2013,"A Path Eternal  (1:58)
 Voiceprint (Loop/Edit)  (0:52)
 Spock (Regis Remix) (Loop/Edit) (0:33)
@@ -1287,7 +1287,7 @@ Flat Tire (3:43)
 Into A Circle  (2:32)
 Sicario de Dios: Siglo 2  (1:08)
 At Night  (4:40)
-Voiceprint (Reprise) (5:37)",No master release;
+Voiceprint (Reprise) (5:37)",edm-timbre-tool/fabric/2013 - Fabric 69 - Sandwell District,No master release;
 4657718,Fabric 70,Apollonia,Electronic,"Minimal, Techno, Tech House, Deep House",2013,"Allez Ally (4:04)
 Nards (Ryan Elliott Remix)  (3:40)
 Trinidad  (4:42)
@@ -1304,7 +1304,7 @@ Visa Americain  (6:02)
 Night Chime  (3:31)
 Bronze Septembre  (3:55)
 Fearless Fun  (3:31)
-Need Ur Love (Stalagmite Mix) (6:24)",
+Need Ur Love (Stalagmite Mix) (6:24)",edm-timbre-tool/fabric/2013 - Fabric 70 - Apollonia,
 601008,Fabric 71,Cassy,Electronic,"Minimal, Techno, Tech House, Deep House",2013,"Tune In (3:07)
 Black Thoughts (Tribal Mix) (3:03)
 Mare010 (4:13)
@@ -1321,7 +1321,7 @@ Landwehr (5:14)
 Completely Gone (4:42)
 010x (5:04)
 Thelon (Todd Sines Mix) (2:53)
-(My Back Is) Against The Wall (6:13)",No master release;
+(My Back Is) Against The Wall (6:13)",edm-timbre-tool/fabric/2013 - Fabric 71 - Cassy,No master release;
 5000378,Fabric 72,Rhadoo,Electronic,"Minimal, Techno, Tech House",2013,"Jazzocorason ()
 ConTRASt ()
 Blueprint  ()
@@ -1338,7 +1338,7 @@ Have A ()
 Frou Frou ()
 Let's Feed The Wolf (Petre Inspirescu Remix) ()
 Ticktockclockityclock ()
-Fearnot ()",
+Fearnot ()",edm-timbre-tool/fabric/2013 - Fabric 72 - Rhadoo,
 1496539,Fabric 73,Ben Sims,Electronic,"House, Techno, Tech House",2013,"GS 01 (2:01)
 Icon (2:30)
 Dread (0:30)
@@ -1382,7 +1382,7 @@ Neurosis (Surgeon Remix - Edit) (1:20)
 Chained To A Dead Camel (2:11)
 Nut Nut (2:55)
 Joyrider (Trevino Remix - Edit) (1:57)
-Broken Dreams  (0:50)",
+Broken Dreams  (0:50)",edm-timbre-tool/fabric/2013 - Fabric 73 - Ben Sims,
 813065,Fabric 74,Move D,Electronic,"Techno, House",2014,"Under Tha Sun ()
 Your Love Is All I Need (Dub Mix) ()
 Some Lovin’ ()
@@ -1397,7 +1397,7 @@ New Jazzno  ()
 Roots  ()
 Luvbyrds  ()
 Feel Me ()
-Unke ()",
+Unke ()",edm-timbre-tool/fabric/2014 - Fabric 74 - Move D,
 978606,Fabric 75,Maya Jane Coles,Electronic,"Techno, House, Deep House, Minimal, Tech House",2014,"Somebody ()
 Madness (Volta Cab Remix - Maya Jane Coles Edit) ()
 Close Up (Exercise One Remix) ()
@@ -1414,7 +1414,7 @@ Forgive Me (Edu Imbernon Remix) ()
 Basement ()
 Monster ()
 Purple Garden ()
-Lonely Nights ()",
+Lonely Nights ()",edm-timbre-tool/fabric/2014 - Fabric 75 - Maya Jane Coles,
 1643518,Fabric 76,Deetron,Electronic,"Techno, House, Acid",2014,"Picadillo (Carl Craig's Breakdown Version) (1:34)
 Timewave (1:49)
 Palats (1:58)
@@ -1442,7 +1442,7 @@ Before Your Very Eyes... (4:58)
 Falling The Same Way (Dommune Version) (2:45)
 Weird F (2:14)
 Mercy (2:21)
-Says (5:10)",
+Says (5:10)",edm-timbre-tool/fabric/2014 - Fabric 76 - Deetron,
 842007,Fabric 77,Marcel Dettmann,Electronic,"Techno, House",2014,"Arthure Iccon (4:26)
 Sun Position (4:11)
 Inside Of Me (3:27)
@@ -1461,7 +1461,7 @@ M_Lock 4 (4:01)
 Carlre (3:32)
 Repulsive (Marcel Dettmann Edit) (4:10)
 Flash (2:12)
-Torus XXXII (3:53)",
+Torus XXXII (3:53)",edm-timbre-tool/fabric/2014 - Fabric 77 - Marcel Dettmann,
 869688,Fabric 78,Raresh,Electronic,"Techno, House, Deep House, Minimal",2014,"Super Lemon Vapor ()
 Isitor ()
 Barb Coating Sonnet (Sonja Moonear's Sony In The Sky Remix) ()
@@ -1478,7 +1478,7 @@ I See Through You ()
 Abuelito ()
 Emozionn ()
 Nemeta (Adsum Remix) ()
-Beginning An Ending (Baby Ford Remix) ()",
+Beginning An Ending (Baby Ford Remix) ()",edm-timbre-tool/fabric/2014 - Fabric 78 - Raresh,
 854060,Fabric 79,Prosumer,"Electronic, Funk / Soul","Techno, House, Electro, Deep House, Acid House, Downtempo, Disco",2014,"Time ()
 Untitled B2 ()
 I Believe ()
@@ -1502,7 +1502,7 @@ Rap Beef ()
 Nature Of The Soul ()
 Carden Eden ()
 Fantastic Piano ()
-She's Got Her E.R.A. ()",No master release;
+She's Got Her E.R.A. ()",edm-timbre-tool/fabric/2014 - Fabric 79 - Prosumer,No master release;
 6670570,Fabric 80,Joseph Capriati,Electronic,"Techno, Tech House, Deep House",2015,"Ashiko (Lurka Obeah Mix) (2:48)
 Smells Like A Virgin (2:48)
 Partenopeo (3:19)
@@ -1520,7 +1520,7 @@ Transition Six (4:51)
 Doch (3:50)
 Organic (4:51)
 Gyre (4:21)
-Learn To Fly (Maceo's Flight Home Mix) (6:13)",
+Learn To Fly (Maceo's Flight Home Mix) (6:13)",edm-timbre-tool/fabric/2015 - Fabric 80 - Joseph Capriati,
 1510997,Fabric 81,Matt Tolfrey,Electronic,"Techno, Tech House, Deep House, Minimal, House",2015,"Do My Thing ()
 The Bath House ()
 Life Stories Part 3.2 ()
@@ -1545,7 +1545,7 @@ Your Call ()
 Lost In Space ()
 Istanbul 2 ()
 Tokyo XXX ()
-Question Time ()",
+Question Time ()",edm-timbre-tool/fabric/2015 - Fabric 81 - Matt Tolfrey,
 921229,Fabric 82,Art Department,Electronic,"Techno, Tech House, Deep House, House, Dub Techno",2015,"Mutism ()
 Villa Seurat ()
 Hip Flexer ()
@@ -1562,7 +1562,7 @@ Valley Road (We Are 1) (DJ QU Remix) ()
 Untitled (NJ01 - B1) ()
 Wired ()
 Speed ()
-Mutism ()",
+Mutism ()",edm-timbre-tool/fabric/2015 - Fabric 82 - Art Department,
 903266,Fabric 83,Joris Voorn,Electronic,"Techno, Tech House, Deep House, House, Dub Techno, Downtempo, Minimal, Ambient",2015,"So, Who's Gonna Watch You Die? ()
 Front End (Remixed By Pye Corner Audio) ()
 Isolate Frequencies 2 ()
@@ -1626,7 +1626,7 @@ Slowrag ()
 Front End (Remixed By Pye Corner Audio) ()
 Prelude To Shona ()
 The Void She Left ()
-D7 08 2A 8D 2A 37 FA FE 17 OE 62 39 06 81 C8 A1 49 30 6F ED 56 AD 5E 04 ()",
+D7 08 2A 8D 2A 37 FA FE 17 OE 62 39 06 81 C8 A1 49 30 6F ED 56 AD 5E 04 ()",edm-timbre-tool/fabric/2015 - Fabric 83 - Joris Voorn,
 1982815,Fabric 84,Mathew Jonson,Electronic,Techno,2015,"Northern Lights (7:56)
 Dayz (4:22)
 Learning To Fly (2:30)
@@ -1646,7 +1646,7 @@ That Girl Can Dance (1:04)
 That 101 Is Mine (2:50)
 Feels Like Liquid (3:47)
 Body In Motion (2:31)
-Good Life (Mathew Jonson's Acid Mix) (3:29)",
+Good Life (Mathew Jonson's Acid Mix) (3:29)",edm-timbre-tool/fabric/2015 - Fabric 84 - Mathew Jonson,
 1982794,Fabric 85,Baby Ford,Electronic,"House, Techno, Minimal",2015,"Carpet (3:52)
 Fine Girl (3:54)
 Lava (2:35)
@@ -1661,7 +1661,7 @@ Undrgr (3:58)
 Haz (8:23)
 Time Tourism (Baby Ford Remix) (4:03)
 I Don't Know How To Say (8:57)
-NY015 (0:43)",
+NY015 (0:43)",edm-timbre-tool/fabric/2015 - Fabric 85 - Baby Ford,
 1001110,Fabric 86,Eats Everything,Electronic,"House, Techno, Tech House, Deep House, Electro, Trance",2016,"Cascades Of Colour (Danny Tenaglia Edit Of Saffron Mix) ()
 Feelin' This Way ()
 Kaimanawa ()
@@ -1681,7 +1681,7 @@ Prime Time ()
 Jump For Joi (Spike Dub) ()
 Over Me (Whiplash Sub Bass Mix) ()
 Baby Talk ()
-Galaxia ()",
+Galaxia ()",edm-timbre-tool/fabric/2016 - Fabric 86 - Eats Everything,
 1090378,Fabric 87,Alan Fitzpatrick,Electronic,"House, Techno, Tech House, Deep House, Ambient, Minimal Techno",2016,"Weltschmerz (Melodic Theme) (0:58)
 All I Think About Is Death (Radio Slave Atmos) (1:29)
 Zen (4:32)
@@ -1704,7 +1704,7 @@ Flat Rotation Curves (1:46)
 Wrangel Calling (4:40)
 Speak Out (2:01)
 End Theme (0:45)
-Bullets (Alan Fitzpatrick's Lights Up Remix) (6:58)",
+Bullets (Alan Fitzpatrick's Lights Up Remix) (6:58)",edm-timbre-tool/fabric/2016 - Fabric 87 - Alan Fitzpatrick,
 1020467,Fabric 88,Ryan Elliott,Electronic,"House, Techno",2016,"Water Maze (3:29)
 LFI (3:13)
 Unknown Deep (3:49)
@@ -1728,7 +1728,7 @@ Five Fingers In The West (UK Gold Remix) (2:37)
 Eleven + Twelve (Locked Grooves) (1:29)
 Shift (2:59)
 B1 (3:44)
-Chapitre VIII: Nihon No Tabi (1:44)",
+Chapitre VIII: Nihon No Tabi (1:44)",edm-timbre-tool/fabric/2016 - Fabric 88 - Ryan Elliot,
 1089337,Fabric 89,Gerd Janson,Electronic,"Deep House, Tech House, Disco, Acid House, Techno",2016,"Snooze 4 Love (Luke Abbott Remix) (6:46)
 Voices (Fabric Edit) (6:09)
 Love Yeah (4:58)
@@ -1744,7 +1744,7 @@ Marauder (5:54)
 Rhythm (1:49)
 Hills, I Want You (4:37)
 Finished (5:58)
-Sun (Prins Thomas Diskomiks) (4:41)",
+Sun (Prins Thomas Diskomiks) (4:41)",edm-timbre-tool/fabric/2016 - Fabric 89 - Gerd Janson,
 1084145,Fabric 90,Scuba,Electronic,"Deep House, Tech House, Acid House, Techno, Future Jazz",2016,"Astronauten (2:49)
 Uhura ()
 Crackling (3:38)
@@ -1785,7 +1785,7 @@ Eksibit ()
 Konflikt (8:00)
 Guauanco (The Cinematic Orchestra Remix) ()
 Decompression Suite ()
-Uhura ()",
+Uhura ()",edm-timbre-tool/fabric/2016 - Fabric 90 - Scuba,
 1404101,Fabric 91,Nina Kraviz,Electronic,"Techno, Abstract, Acid, Minimal",2016,"Tak (1:20)
 Ruthless Compassion (5:37)
 TV (1:46)
@@ -1826,7 +1826,7 @@ First Light (2:02)
 Revelation (0:52)
 Approaching (1:50)
 Fate (As A Chasm) (4:48)
-Fork Rave (3:42)",
+Fork Rave (3:42)",edm-timbre-tool/fabric/2016 - Fabric 91 - Nina Kraviz,
 1145046,Fabric 92,Call Super,"Electronic, Reggae, Blues","Techno, Abstract, Acid, Minimal, House, Breakbeat, Deep House, Electro, Experimental, Country Blues, Dub",2017,"The Same River Twice ()
 Maßstab 1:5/11 ()
 Tendency ()
@@ -1850,7 +1850,7 @@ Plague #7 ()
 Keep On Walkin' ()
 The Feeling When You Walk Away ()
 Giant Hug ()
-Cutbacks ()",No master release;
+Cutbacks ()",edm-timbre-tool/fabric/2017 - Fabric 92 - Call Super,No master release;
 9990495,Fabric 93,Soul Clap,Electronic,"Deep House, Italo-Disco, House, Disco, Techno, Synth-pop",2017,"Ambientroit (2:30)
 Fabric Intro ()
 New Day (1:52)
@@ -1887,7 +1887,7 @@ Djidjo Vide (2:57)
 Boipeba Dub (0:49)
 Maajo (3:24)
 Path To Wisdom (2:48)
-Bittersweet Stripped (2:24)",
+Bittersweet Stripped (2:24)",edm-timbre-tool/fabric/2017 - Fabric 93 - Soul Clap,
 1319199,Fabric 94,Steffi,Electronic,"Techno, House, Electro",2017,"Echo 1 (2:31)
 Sound Of Distance (5:00)
 1.5 (4:29)
@@ -1902,7 +1902,7 @@ Poison Valley (3:47)
 World Gets Crazy (5:06)
 Saturniidae (4:35)
 Off The Beat (4:18)
-Broke (4:28)",
+Broke (4:28)",edm-timbre-tool/fabric/2017 - Fabric 94 - Steffi,
 2044252,Fabric 95,Roman Flugel,Electronic,"Techno, Minimal, House, Deep House, Experimental, Tech House, Electro, Breakbeat, Dubstep",2017,"White Sky (4:04)
 RoRic (Original Mix) (2:04)
 Tell Me (Benjamin Fröhlich Long Journey Remix) (5:45)
@@ -1924,7 +1924,7 @@ Perseus (2:32)
 Marbrahh (1:57)
 Birth Of Saturn (4:10)
 Amnesia (1:12)
-Fascinating (3:43)",
+Fascinating (3:43)",edm-timbre-tool/fabric/2017 - Fabric 95 - Roman Flügel,
 1319193,Fabric 96,DVS1,Electronic,"Techno, Minimal Techno",2017,"For All Mankind (4:02)
 Boring Shit (2:43)
 Silent Prayer (1:56)
@@ -1953,7 +1953,7 @@ Ceremony (1:30)
 Theory (3:46)
 Question Authority (5:40)
 Technic Electric (3:23)
-The Dancer (1:34)",No master release;
+The Dancer (1:34)",edm-timbre-tool/fabric/2017 - Fabric 96 - DVS1,No master release;
 11557434,Fabric 97,Tale Of Us,Electronic,"Techno, House",2018,"Cup Of Joe (1:22)
 Saudade (3:58)
 Metala (3:19)
@@ -1973,7 +1973,7 @@ Sequence 01 (5:32)
 Memorial Day (2:36)
 Path To Immortality (5:28)
 Error Error (5:12)
-Ray (2:59)",
+Ray (2:59)",edm-timbre-tool/fabric/2017 - fabric 97 - Tale Of Us,
 1356439,Fabric 98,Maceo Plex,Electronic,"Techno, House, Electro, Synth-pop, Deep House",2018,"Searchlight (2:44)
 Sabine's Song (3:55)
 Walking With Shadows (2:25)
@@ -1998,7 +1998,7 @@ Ride (2:46)
 Revolution (3:55)
 Focus ()
 Megatrance 2 (5:09)
-Zwicky (2:43)",
+Zwicky (2:43)",edm-timbre-tool/fabric/2018 - Fabric 98 - Maceo Plex,
 1384487,Fabric 99,Sasha,Electronic,"Techno, Ambient, Leftfield, Deep House, Tech House, Electro",2018,"Stretch Your Eyes (Ambient Acapella) (5:17)
 Stretch Your Eyes (Quiet Village Remix) ()
 I Wanna (Heitzberg Theorem Club Edit) (3:21)
@@ -2018,7 +2018,7 @@ Acid Bells (DJ Koze Mix) (1:36)
 La Cuarta Galaxia (Tiefschwarz Remix) (4:58)
 Echo Forgets (Sasha's Moog-apella) ()
 At Les (Antigone Remix) (4:23)
-Amae (Sasha Fabric1999 Remix) (6:58)",
+Amae (Sasha Fabric1999 Remix) (6:58)",edm-timbre-tool/fabric/2018 - Fabric 99 - Sasha,
 12705377,Fabric 100,"Craig Richards, Terry Francis, Keith Reilly",Electronic,"Techno, House, Electro, Deep House, Synth-pop, Acid House, Tech House, Minimal",2018,"Mixed By Craig Richards ()
 Nmos (2:55)
 Journal Square (3:09)
@@ -2071,4 +2071,4 @@ Droids (7:27)
 Devil's Den (6:19)
 Mwala Wei'ka (5:44)
 Tale Of The Dirt (Rampa Remix) (7:16)
-Ordinary (Mick Rubins Deep) (6:00)","No master release; Three separate DJ mixes, separated by: Mixed By Craig Richards (), Mixed By Terry Francis (),  Mixed By Keith Reilly ();"
+Ordinary (Mick Rubins Deep) (6:00)",edm-timbre-tool/fabric/2018 - Fabric 100 - Craig Richards Terry Francis & Keith Reilly,"No master release; Three separate DJ mixes, separated by: Mixed By Craig Richards (), Mixed By Terry Francis (),  Mixed By Keith Reilly ();"
