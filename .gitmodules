@@ -1,0 +1,3 @@
+[submodule "cae-invar"]
+	path = cae-invar
+	url = https://github.com/tiianhk/cae-invar
