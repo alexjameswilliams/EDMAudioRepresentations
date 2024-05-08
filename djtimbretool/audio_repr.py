@@ -2,6 +2,12 @@ from kymatio import TimeFrequencyScattering
 import librosa as lr
 import openl3
 import numpy as np
+import torch
+
+import sys
+sys.path.append('../cae-invar')
+from complex_auto.cqt import standardize
+from complex_auto.complex import Complex
 
 
 class AudioProcessor:
@@ -73,18 +79,49 @@ class jTFS(AudioProcessor):
 
 class CAE(AudioProcessor):
 
-    def __init__(self, sr):
+    def __init__(self, sr, model_save_fn):
+        if sr != 22050:
+            raise ValueError("CAE only supports 22050 Hz sampling rate")
         super().__init__(sr)
+        # cqt params
+        self.n_bins = 120
+        self.bins_per_oct = 24
+        self.fmin = 65.4
+        self.hop_length = 1984
+        self.length_ngram = 32
+        # load model
+        self.n_bases = 256
+        self._load_model(model_save_fn)
+        
+    def _load_model(self, model_save_fn):
+        self.model = Complex(self.n_bins * self.length_ngram, self.n_bases)
+        self.model.load_state_dict(torch.load(model_save_fn, map_location='cpu'), 
+                                   strict=False)
+        self.model.eval()
 
     def compute_features(self, audio_array):
-        pass
+        cqt = lr.cqt(audio_array, sr=self.sr, n_bins=self.n_bins, 
+                     bins_per_octave=self.bins_per_oct, 
+                     fmin=self.fmin, hop_length=self.hop_length)
+        mag = lr.magphase(cqt)[0]
+        mag = standardize(mag, axis=0)
+        repr = mag.transpose()
+        ngrams = []
+        for i in range(0, len(repr) - self.length_ngram):
+            curr_ngram = repr[i:i + self.length_ngram].reshape((-1,))
+            curr_ngram = standardize(curr_ngram)
+            ngrams.append(curr_ngram)
+        x = torch.FloatTensor(np.vstack(ngrams))
+        amp, phase = self.model(x)
+        return np.array([amp.t().detach().numpy(), 
+                         phase.t().detach().numpy()])
         
 
 if __name__ == "__main__":
     
     # test code
-    sr = 44100
-    audio_array = np.random.randn(44100*2)
+    sr = 22050
+    audio_array = np.random.randn(22050*20)
     openl3_processor = OpenL3(sr, hop_size=0.1)
     features = openl3_processor(audio_array)
     print(features.shape)
@@ -93,4 +130,7 @@ if __name__ == "__main__":
     print(features.shape)
     jtfs_processor = jTFS(sr, J=6, Q=(12,2), J_fr=4, Q_fr=4, T=2**6, F=2**4)
     features = jtfs_processor(audio_array)
+    print(features.shape)
+    cae_processor = CAE(sr, model_save_fn='../model/model_complex_auto_cqt.save')
+    features = cae_processor(audio_array)
     print(features.shape)
