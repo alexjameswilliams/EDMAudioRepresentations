@@ -3,9 +3,10 @@ import librosa as lr
 import openl3
 import numpy as np
 import torch
-
+import os
 import sys
-sys.path.append('../cae-invar')
+from path import CAE_PATH
+sys.path.append(CAE_PATH)
 from complex_auto.cqt import standardize
 from complex_auto.complex import Complex
 

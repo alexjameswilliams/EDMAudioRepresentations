@@ -1,7 +1,6 @@
 import os
 import numpy as np
-
-DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../data/')
+from path import DATA_PATH
 
 audio_path = []
 datasets = os.listdir(DATA_PATH)
